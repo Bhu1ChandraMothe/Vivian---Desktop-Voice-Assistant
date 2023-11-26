@@ -1,0 +1,15 @@
+pyttsx3
+speech_recognition 
+datetime
+wikipedia 
+webbrowser
+os
+smtplib
+requests
+pywhatkit
+pyjokes
+subprocess
+psutil
+pytube
+requests
+urllib.parse 
